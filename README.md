@@ -13,12 +13,12 @@ Workout Planner is an app to simplify planning your workouts. With the workout p
 
 ### App Evaluation
 [Evaluation of your app across the following attributes]
-- **Category:**
-- **Mobile:**
-- **Story:**
-- **Market:**
-- **Habit:**
-- **Scope:**
+- **Category:** Health/Fitness
+- **Mobile:** This app would be developed for mobile but has the potential to translate onto a web application. Most functionality would be on mobile, as most people view their workout plans on the go.
+- **Story:** Tracks/logs a user's selected workouts into a personal list. User can delete from their log or add to it.
+- **Market:** This app can be used by anyone of any age.
+- **Habit:** Since this is a personal list, the user can use it as often as they would like.
+- **Scope:** First we want to develop a personal list of workouts that can be chosen from a log of hard coded workouts. On a larger scale, we can create a weekly schedule/planner where a user can plan out their weekly workouts, and create their own workouts instead of having to choose from a list.
 
 ## Product Spec
 
@@ -26,30 +26,34 @@ Workout Planner is an app to simplify planning your workouts. With the workout p
 
 **Required Must-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* User logs in to access their personal workout plan
+* User picks a body part they'd like to build a workout plan around. 
+* User adds workouts for that body part to their 'Workout Plan'.
 
 **Optional Nice-to-have Stories**
 
-* [fill in your required user stories here]
-* ...
+* Dark mode/Light mode capability
+* Settings page
 
 ### 2. Screen Archetypes
 
-* [list first screen here]
-   * [list associated required story here]
-   * ...
-* [list second screen here]
-   * [list associated required story here]
-   * ...
+* Login
+* Register 
+   * User is asked to login after registering.
+* Body Part/Upper-Lower Body Page
+   * User can select the area of the body they would like to view workouts for.
+* Workout List
+   * List of workouts for the specific body part.
+* Personal Workout List
+   * User's personal list of workouts.
 
 ### 3. Navigation
 
 **Tab Navigation** (Tab to Screen)
 
-* [fill out your first tab]
-* [fill out your second tab]
-* [fill out your third tab]
+* Workout Search
+* Personal List
+
 
 **Flow Navigation** (Screen to Screen)
 
