@@ -57,16 +57,14 @@ Workout Planner is an app to simplify planning your workouts. With the workout p
 
 **Flow Navigation** (Screen to Screen)
 
-* [list first screen here]
-   * [list screen navigation here]
-   * ...
-* [list second screen here]
-   * [list screen navigation here]
-   * ...
+* Sign-Up/Login Page: Forced Log-in -> Account creation if no log in is available.
+ * Let's Get Started Page (Home Page): contains Body Part Focus Selection Grid and Workout History Button.
+    * Select a Workout Screen -> Log sets/reps 
+    * Most Recent Workouts Screen
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+
+<img src="https://imgur.com/a/gxPLo3J">
 
 ### [BONUS] Digital Wireframes & Mockups
 
